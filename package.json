@@ -1,0 +1,17 @@
+{
+	"name" : "netlify-gatsby-test-05",
+	"description" : "Does this really work?",
+	"version" : "0.0.5",
+	"scripts" : {
+		"develop": "gatsby develop",
+		"start": "npm run develop",
+		"build": "gatsby build",
+		"serve": "gatsby serve"
+	},
+	"dependencies" : {
+		"gatsby": ">=2.22.15",
+		"gatsby-source-sanity": ">=6.0.1",
+		"react": ">=16.12.0",
+		"react-dom": ">=16.12.0"
+	}
+}
